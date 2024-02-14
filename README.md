@@ -1,4 +1,4 @@
-# Mohammed_Portfolio
+# Mohammed Al Hashim Portfolio
 My Data science projects 
 
 ---
@@ -53,14 +53,38 @@ Output:
 
 # Tabular datasets
 
-## Project 1: Airline Passenger Satisfaction classification 
+## Project 1: Airline Passenger Satisfaction Classification 
 ### Project Overview:
 
+Artificial intelligence is very useful in terms of segmenting people based on their interests. The model was trained with data from deferent airlines to have one model that will segment the people into the airline classes to have a better experience.
+
+Tools:
+1. Jupyter notebook
+
+Python libraries:
+1. Scikit-learn
+2. matplotlib
+3. Pandas
+4. numpy
+
+Output:
 
 
 ## Project 2: Mortality of heart failure 
 ### Project Overview:
 
+An AI model has been trained using patient data from a specific source to predict the likelihood of a patient experiencing heart failure leading to death. The training involves analyzing relevant features and patterns within the provided patient data to develop a predictive capability. The aim is to enable early detection and intervention, enhancing the potential for timely medical attention and improved patient outcomes in cases of heart failure.
+
+Tools:
+1. Jupyter notebook
+
+Python libraries:
+1. Scikit-learn
+2. matplotlib
+3. Pandas
+4. numpy
+
+Output:
 
 # Image datasets
 
@@ -83,6 +107,8 @@ Output:
 
 ## Project 4: Defected fruit detection
 ### Project Overview:
+
+
 
 ## Project 5: Road tracking 
 ### Project Overview:
