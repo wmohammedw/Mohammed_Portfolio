@@ -24,10 +24,12 @@ Python library used:
 4. Pillow
 5. Flask
 
-Output:
+### Output:
 
+![alt text](download (1).png)
+![alt text](download.png)
 
-Conference paper: https://ieeexplore.ieee.org/document/9909043
+[Conference paper:](https://ieeexplore.ieee.org/document/9909043)
 
 ## Senior Project 2: Magical Mirror
 ### Project Overview:
@@ -46,10 +48,6 @@ Python library used:
 4. Tkinter
 5. Scikit-learn
 
-Output:
-
-
-
 
 # Tabular datasets
 
@@ -67,9 +65,6 @@ Python libraries:
 3. Pandas
 4. numpy
 
-Output:
-
-
 ## Project 2: Mortality of heart failure 
 ### Project Overview:
 
@@ -84,7 +79,9 @@ Python libraries:
 3. Pandas
 4. numpy
 
-Output:
+### Output:
+![alt text](heart failure.PNG)
+
 
 # Image datasets
 
@@ -102,7 +99,10 @@ Python libraries:
 3. Scikit-learn
 4. OpenCV
 
-Output:
+### Output:
+
+![alt text](accident_1)
+![alt text](accident_2)
 
 
 ## Project 4: Defected fruit detection
@@ -119,6 +119,9 @@ Python libraries:
 3. Scikit-learn
 4. OpenCV
 
+### Output:
+
+![alt text]()
 
 
 ## Project 5: Road tracking 
