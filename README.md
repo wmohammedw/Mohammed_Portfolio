@@ -1,5 +1,6 @@
 # Mohammed Al Hashim Portfolio
-My Data science projects 
+
+Welcome to my data science portfolio! Here, I showcase my journey and expertise in the dynamic field of data science. Through hands-on projects and a passion for extracting meaningful insights from complex datasets, I aim to demonstrate my proficiency in leveraging data to drive informed decision-making. From machine learning and predictive modeling to data visualization and analysis, my portfolio reflects a diverse set of skills honed through practical applications and a commitment to staying at the forefront of industry trends. Join me on this exploration of data-driven solutions, where each project is a testament to my dedication to turning raw data into actionable intelligence.
 
 ---
 
