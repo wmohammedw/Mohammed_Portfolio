@@ -29,7 +29,7 @@ Python library used:
 ![alt text](download_(1).png)
 ![alt text](download.png)
 
-[Conference paper:](https://ieeexplore.ieee.org/document/9909043)
+Conference paper: [Link](https://ieeexplore.ieee.org/document/9909043)
 
 ## Senior Project 2: Magical Mirror
 ### Project Overview:
@@ -234,4 +234,4 @@ Python libraries:
 
 ![alt text](time_series.jpg)
 
-[Journal paper link:](https://www.iieta.org/journals/mmep/paper/10.18280/mmep.100641)
+Journal paper link:[Link](https://www.iieta.org/journals/mmep/paper/10.18280/mmep.100641)
