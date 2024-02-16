@@ -137,6 +137,17 @@ Python libraries:
 ## Project 6: image matching
 ### Project Overview:
 
+Our model is designed to detect counterfeit logos using a matching algorithm. The primary objective is to analyze and compare logos to identify discrepancies that may indicate a fake or unauthorized reproduction. This matching algorithm employs various image processing techniques to assess visual similarities and differences, enabling the model to distinguish authentic logos from counterfeit ones. The goal is to contribute to brand protection and ensure the integrity of logos by promptly identifying instances of unauthorized use or imitation through automated analysis.
+
+Tools:
+1. VSCode
+
+Python libraries:
+1. OpenCV
+2. Numpy
+3. Scikit-image
+
+
 # Text dataset
 
 ## Project 7: Arabic sentiment analysis for Amazon review
