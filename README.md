@@ -26,7 +26,7 @@ Python library used:
 
 ### Output:
 
-![alt text](download (1).png)
+![alt text](download_(1).png)
 ![alt text](download.png)
 
 [Conference paper:](https://ieeexplore.ieee.org/document/9909043)
@@ -80,7 +80,8 @@ Python libraries:
 4. numpy
 
 ### Output:
-![alt text](heart failure.PNG)
+
+![alt text](heart_failure.png)
 
 
 # Image datasets
@@ -101,8 +102,8 @@ Python libraries:
 
 ### Output:
 
-![alt text](accident_1)
-![alt text](accident_2)
+![alt text](accident_1.jpg)
+![alt text](accident_2.jpg)
 
 
 ## Project 4: Defected fruit detection
@@ -121,7 +122,7 @@ Python libraries:
 
 ### Output:
 
-![alt text]()
+![alt text](fruit_detection.jpg)
 
 
 ## Project 5: Road tracking 
@@ -190,7 +191,10 @@ Python libraries:
 2. Scikit-learn
 3. Gensim
 
-Output:
+### Output:
+
+![alt text](sentiment_analysis_1.jpg)
+![alt text](sentiment_analysis_2.jpg)
 
 ## Project 9: Emotion detection 
 ### Project Overview:
@@ -204,6 +208,11 @@ Python libraries:
 1. Tensorflow
 2. Gensim
 3. Scikit-learn
+4. Flask
+
+### Output:
+
+![alt text](emotion_detection.jpg)
 
 # Time series dataset
 
@@ -221,7 +230,8 @@ Python libraries:
 3. Pandas
 4. matplotlib
 
+### Output:
 
-Output:
+![alt text](time_series.jpg)
 
-Journal paper link: https://www.iieta.org/journals/mmep/paper/10.18280/mmep.100641
+[Journal paper link:](https://www.iieta.org/journals/mmep/paper/10.18280/mmep.100641)
