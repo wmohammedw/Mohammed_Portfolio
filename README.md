@@ -108,11 +108,31 @@ Output:
 ## Project 4: Defected fruit detection
 ### Project Overview:
 
+The project involves an AI model designed to classify defective fruits. The primary objective is to determine, through image analysis, whether the fruit captured by the camera is defective or not. Upon making this classification, the system then directs the fruit to a designated path based on the prediction. The AI model leverages its training data to recognize visual cues and patterns associated with defects in fruits. Real-time processing of images from the camera enables quick and accurate identification of any flaws. The subsequent action, such as sorting the fruit based on the prediction, contributes to the overall efficiency and quality control in fruit processing or distribution systems.
+
+Tools:
+1. Google Collab
+
+Python libraries:
+1. Tensorflow
+2. Flask
+3. Scikit-learn
+4. OpenCV
+
 
 
 ## Project 5: Road tracking 
 ### Project Overview:
 
+Tracking objects on the road is a crucial task, particularly in modern vehicles. The project focuses on monitoring and predicting the direction of moving objects situated in front of the car. The primary goal is to provide drivers with the ability to promptly detect any potential oncoming obstacles, enabling them to make swift decisions for enhanced safety. By implementing an optical flow algorithm, the system continuously analyzes the movement of objects within the car's vicinity. This real-time tracking capability empowers drivers with valuable information, aiding them in anticipating potential hazards and making informed decisions promptly. Ultimately, the project aims to improve overall road safety by providing drivers with a proactive tool for better situational awareness.
+
+Tools:
+1. VSCode
+
+Python libraries:
+1. OpenCV
+2. Numpy
+3. Scikit-image
 
 ## Project 6: image matching
 ### Project Overview:
@@ -120,6 +140,22 @@ Output:
 # Text dataset
 
 ## Project 7: Arabic sentiment analysis for Amazon review
+### Project Overview:
+
+The objective of our AI model is to streamline the product selection process on Amazon. Recognizing that reading and assessing numerous comments for each product can be time-consuming, our model is designed to automate this task. It comprehensively analyzes all available comments on a particular product and provides a summarized overview.
+
+By leveraging natural language processing and sentiment analysis, the AI model distills the key insights from customer feedback, offering users a concise summary. This functionality aims to assist customers in making informed decisions efficiently, ensuring that they can quickly identify products with positive feedback and desirable quality without the need to sift through extensive comment sections. 
+
+Tools:
+1. Jupyter notebook
+
+Python libraries:
+1. Tensorflow
+2. Gensim
+3. Scikit-learn
+4. Selenum
+
+## Project 8: Arabic aspect-based sentiment analysis
 ### Project Overview:
 
 The goal of this project is to predict the aspects that customers express concerns about in reviews and categorize them as either positive or negative. Five key aspects have been extracted from the dataset, namely:
@@ -138,16 +174,22 @@ Tools:
 Python libraries:
 1. Tensorflow
 2. Scikit-learn
+3. Gensim
 
 Output:
-
-## Project 8: Arabic aspect-based sentiment analysis
-### Project Overview:
-
 
 ## Project 9: Emotion detection 
 ### Project Overview:
 
+The goal of this project is to determine the immediate emotion expressed by the customer. The objective is to employ techniques such as sentiment analysis or emotion recognition to accurately identify and categorize the emotional state of the customer at a given moment. This information can be valuable in various contexts, such as customer service interactions, marketing research, or user experience assessments. The aim is to enhance understanding of customer sentiment, facilitating more personalized and effective interactions based on their current emotional state.
+
+Tools:
+1. Jupyter notebook
+
+Python libraries:
+1. Tensorflow
+2. Gensim
+3. Scikit-learn
 
 # Time series dataset
 
@@ -157,7 +199,7 @@ Output:
 The emergent domain of cryptocurrency represents a significant development in financial markets, with a profound impact on investment strategies. This study seeks to develop a predictive model for forecasting the future prices of the NEAR cryptocurrency, a relatively unexplored asset within this volatile market. The objective is to furnish investors with a reliable tool for informed decision-making by anticipating market fluctuations.
 
 Tools:
-1. Google collab
+1. Jupyter notebook
 
 Python libraries:
 1. Tensorflow
