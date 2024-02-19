@@ -236,3 +236,24 @@ Python libraries:
 ![alt text](time_series.jpg)
 
 Journal paper link:[Link](https://www.iieta.org/journals/mmep/paper/10.18280/mmep.100641)
+
+
+
+# Other projects
+## Project 11: Pathfinding
+### Project Overview:
+
+The objective of this project is to develop a virtual environment featuring an autonomous vacuum cleaning system. The system is designed to map the entire room and efficiently execute a cleaning strategy. Leveraging advanced algorithms, the virtual vacuum autonomously navigates through the environment, identifying optimal cleaning paths. Upon completion of the cleaning task, the system intelligently calculates and follows the shortest path back to its starting point. This project not only showcases the application of robotics and pathfinding algorithms but also emphasizes the efficiency and intelligence embedded in the vacuum's cleaning approachظ
+
+Tools:
+1. VSCode
+
+Python libraries:
+1. PyGame
+2. Numpy
+3. Maze
+4. Scikit-learn
+
+### Output:
+
+
