@@ -243,7 +243,7 @@ Journal paper link:[Link](https://www.iieta.org/journals/mmep/paper/10.18280/mme
 ## Project 11: Pathfinding
 ### Project Overview:
 
-The objective of this project is to develop a virtual environment featuring an autonomous vacuum cleaning system. The system is designed to map the entire room and efficiently execute a cleaning strategy. Leveraging advanced algorithms, the virtual vacuum autonomously navigates through the environment, identifying optimal cleaning paths. Upon completion of the cleaning task, the system intelligently calculates and follows the shortest path back to its starting point. This project not only showcases the application of robotics and pathfinding algorithms but also emphasizes the efficiency and intelligence embedded in the vacuum's cleaning approachظ
+The objective of this project is to develop a virtual environment featuring an autonomous vacuum cleaning system. The system is designed to map the entire room and efficiently execute a cleaning strategy. Leveraging advanced algorithms, the virtual vacuum autonomously navigates through the environment, identifying optimal cleaning paths. Upon completion of the cleaning task, the system intelligently calculates and follows the shortest path back to its starting point. This project not only showcases the application of robotics and pathfinding algorithms but also emphasizes the efficiency and intelligence embedded in the vacuum's cleaning approach
 
 Tools:
 1. VSCode
@@ -256,4 +256,24 @@ Python libraries:
 
 ### Output:
 
-![alt text](output.mp4)
+![alt text](output.jpg)
+
+## Project 12: Measuring the size of objects 
+### Project Overview:
+
+
+The goal of this project is to employ computer vision to measure the size of objects captured by the camera. Using advanced computer vision techniques, the system aims to analyze the visual data and provide accurate measurements for objects present in the field of view. This project is geared towards enhancing measurement precision and efficiency, utilizing computer vision algorithms to assess the dimensions of objects in real time.
+
+Tools:
+1. VSCode
+
+Python libraries:
+1. OpenCV
+2. Numpy
+3. Pillow
+4. Scikit-image
+
+### Output:
+
+![alt text](output3.png)
+
